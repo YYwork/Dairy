@@ -35,7 +35,6 @@ linux中的每个用户必须属于一个组。
 - Feb 2 09:39 表示最后修改日期
 - abc 表示文件名
 
-
 `chmod` 改变文件或目录的权限
 
 `chmod 755 abc`：赋予abc权限`rwxr-xr-x`
